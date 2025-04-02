@@ -6,5 +6,5 @@ Create the Campaign DataFrame
 Create the Contacts DataFrame
 Create the Crowdfunding Database
 
-
+Send finalized data to Postgres database.
 
